@@ -19,3 +19,4 @@ az deployment group create --resource-group vscode --template-file 01-storage-ac
 ![image](https://github.com/user-attachments/assets/2f74e8da-6274-4c3c-b164-d07fbf6e3817)
 ![image](https://github.com/user-attachments/assets/f9370eef-b70b-4ffc-8d11-8672590a9edb)
 ![image](https://github.com/user-attachments/assets/5b5363a8-54f9-4f0d-8874-090ab2cb84f0)
+![image](https://github.com/user-attachments/assets/6c82efeb-2a77-40eb-b81e-95ad08c91c77)
