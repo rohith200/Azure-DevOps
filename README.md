@@ -1,4 +1,4 @@
-Creation of Stoarge account in Azure using ARM 
+Creation of Storage account in Azure using ARM 
 **Steps to deploy storage account arm template**
 **Create resource group**
 
